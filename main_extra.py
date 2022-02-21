@@ -2,7 +2,7 @@
 
 # Created by: Ryan C.
 # Created on: February 2022
-# Turing Machine that counts from 11-16
+# Turing Machine that counts from 1-10
 
 import time
 
